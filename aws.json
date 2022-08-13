@@ -1,0 +1,1548 @@
+{
+    "unit": {
+        "title": "Top courses in AWS Certification",
+        "raw_title": "Top courses in {}",
+        "source_objects": [
+            {
+                "id": 4704,
+                "type": "course_label",
+                "title": "AWS Certification",
+                "url": "/topic/aws-certification/",
+                "description": "Prep for your AWS certification with an AWS course on Udemy. Learn the fundamentals of AWS such as working with a serverless platform, the various frameworks, security and more. With these courses, you’ll build the valuable skills you need to implement cloud initiatives — and open up new career opportunities. If you want to become an AWS developer, we’ve got the course for you."
+            }
+        ],
+        "item_type": "course",
+        "items": [
+            {
+                "_class": "course",
+                "id": 1047846,
+                "title": "Amazon Web Services (AWS) Certified 2022 - 4 Certifications!",
+                "url": "/course/aws-certified-associate-architect-developer-sysops-admin/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 27829848,
+                        "title": "BackSpace Academy",
+                        "name": "BackSpace",
+                        "display_name": "BackSpace Academy",
+                        "job_title": "The fastest route to cloud certification.",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/27829848_1d83.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/27829848_1d83.jpg",
+                        "initials": "BA",
+                        "url": "/user/backspace-academy/"
+                    },
+                    {
+                        "_class": "user",
+                        "id": 5628062,
+                        "title": "Paul Coady",
+                        "name": "Paul",
+                        "display_name": "Paul Coady",
+                        "job_title": "Cloud Technology Expert",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/5628062_a21d_2.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/5628062_a21d_2.jpg",
+                        "initials": "PC",
+                        "url": "/user/paulcoady/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1047846_83ef_29.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1047846_83ef_29.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1047846_83ef_29.jpg",
+                "published_title": "aws-certified-associate-architect-developer-sysops-admin",
+                "tracking_id": "_tMOK75CT6GamgiQ5NAmrg",
+                "headline": "Videos, labs & practice exams - AWS Certified (Solutions Architect, Developer, SysOps Administrator, Cloud Practitioner)",
+                "num_subscribers": 134206,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "ar_AR",
+                        "title": "العربية",
+                        "english_title": "Arabic"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "it_IT",
+                        "title": "Italiano",
+                        "english_title": "Italian"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "ja_JP",
+                        "title": "日本語",
+                        "english_title": "Japanese"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "tr_TR",
+                        "title": "Türkçe",
+                        "english_title": "Turkish"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "zh_CN",
+                        "title": "中文(简体)",
+                        "english_title": "Simplified Chinese (China)"
+                    }
+                ],
+                "avg_rating": 4.577187,
+                "avg_rating_recent": 4.5422907,
+                "rating": 4.5422907,
+                "num_reviews": 20983,
+                "is_wishlisted": false,
+                "num_published_lectures": 200,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1047846_83ef_29.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1047846_83ef_29.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1047846_83ef_29.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1047846_83ef_29.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]",
+                    "Arabic [Auto]",
+                    "Italian [Auto]",
+                    "Japanese [Auto]",
+                    "Portuguese [Auto]",
+                    "Simplified Chinese [Auto]",
+                    "Spanish [Auto]",
+                    "Turkish [Auto]"
+                ],
+                "created": "2016-12-21T13:07:27Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-04-12T21:54:52Z",
+                "objectives_summary": [
+                    "You will be fully prepared for the AWS Certified Solutions Architect Associate, AWS Certified Developer Associate and AWS Certified SysOps Administrator Associate exams."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-12-30",
+                "preview_url": "/course/1047846/preview/",
+                "learn_url": "/course/aws-certified-associate-architect-developer-sysops-admin/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "46 total hours",
+                "content_info_short": "46 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1102458,
+                "title": "AWS Certified Security Specialty 2022",
+                "url": "/course/aws-certified-security-specialty/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 2025260,
+                        "title": "Zeal Vora",
+                        "name": "Zeal",
+                        "display_name": "Zeal Vora",
+                        "job_title": "Premium Instructor",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/2025260_e5f5_2.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/2025260_e5f5_2.jpg",
+                        "initials": "ZV",
+                        "url": "/user/cybercorp/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1102458_d6e6_2.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1102458_d6e6_2.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1102458_d6e6_2.jpg",
+                "published_title": "aws-certified-security-specialty",
+                "tracking_id": "8zEBKnVBQqOSfQL31EcWUg",
+                "headline": "All you need to master AWS Certified Security Specialty certification.",
+                "num_subscribers": 32881,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "de_DE",
+                        "title": "Deutsch",
+                        "english_title": "German"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "fr_FR",
+                        "title": "Français (France)",
+                        "english_title": "French (France)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "id_ID",
+                        "title": "Bahasa Indonesia",
+                        "english_title": "Indonesian"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "it_IT",
+                        "title": "Italiano",
+                        "english_title": "Italian"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    }
+                ],
+                "avg_rating": 4.691136,
+                "avg_rating_recent": 4.6129527,
+                "rating": 4.6129527,
+                "num_reviews": 5326,
+                "is_wishlisted": false,
+                "num_published_lectures": 251,
+                "num_published_practice_tests": 1,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1102458_d6e6_2.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1102458_d6e6_2.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1102458_d6e6_2.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1102458_d6e6_2.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "French [Auto]",
+                    "German [Auto]",
+                    "Indonesian [Auto]",
+                    "Italian [Auto]",
+                    "Portuguese [Auto]",
+                    "Spanish [Auto]"
+                ],
+                "created": "2017-02-04T18:44:25Z",
+                "instructional_level": "Intermediate Level",
+                "instructional_level_simple": "Intermediate",
+                "content_length_practice_test_questions": 29,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-02-15T00:05:00Z",
+                "objectives_summary": [
+                    "Will be prepared to give AWS Certified Security Specialty Exam",
+                    "You will be able to Master the Security aspect of AWS",
+                    "Gain deep insights about Enterprise grade Security implementation."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2022-08-08",
+                "preview_url": "/course/1102458/preview/",
+                "learn_url": "/course/aws-certified-security-specialty/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "28 total hours",
+                "content_info_short": "28 hours",
+                "bestseller_badge_content": {
+                    "_class": "ds_course_badge",
+                    "id": "f25f324adda546939ab8ea960ac1d24a",
+                    "badge_text": "Bestseller",
+                    "badge_family": "bestseller",
+                    "context_info": {
+                        "category": {
+                            "id": 294,
+                            "title": "IT & Software",
+                            "url": "/courses/it-and-software/",
+                            "tracking_object_type": "cat"
+                        },
+                        "subcategory": null,
+                        "label": {
+                            "id": 61964,
+                            "display_name": "AWS Certified Security - Specialty",
+                            "title": "AWS Certified Security - Specialty",
+                            "topic_channel_url": "/topic/aws-certified-security-specialty/",
+                            "url": "/topic/aws-certified-security-specialty/",
+                            "tracking_object_type": "cl"
+                        }
+                    }
+                },
+                "badges": [
+                    {
+                        "_class": "ds_course_badge",
+                        "id": "f25f324adda546939ab8ea960ac1d24a",
+                        "badge_text": "Bestseller",
+                        "badge_family": "bestseller",
+                        "context_info": {
+                            "category": {
+                                "id": 294,
+                                "title": "IT & Software",
+                                "url": "/courses/it-and-software/",
+                                "tracking_object_type": "cat"
+                            },
+                            "subcategory": null,
+                            "label": {
+                                "id": 61964,
+                                "display_name": "AWS Certified Security - Specialty",
+                                "title": "AWS Certified Security - Specialty",
+                                "topic_channel_url": "/topic/aws-certified-security-specialty/",
+                                "url": "/topic/aws-certified-security-specialty/",
+                                "tracking_object_type": "cl"
+                            }
+                        }
+                    }
+                ],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1135330,
+                "title": "Part 1: AWS Certified Solutions Architect SAA C03 [Updated]",
+                "url": "/course/aws-certified-solutions-architect-guide-question-bank-i/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 22006946,
+                        "title": "Chandra Lingam",
+                        "name": "Chandra",
+                        "display_name": "Chandra Lingam",
+                        "job_title": "Cloud Wave LLC",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/22006946_909d_11.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/22006946_909d_11.jpg",
+                        "initials": "CL",
+                        "url": "/user/e7c3b177-f449-448a-aff8-9ef970b23152/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1135330_0e31_10.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1135330_0e31_10.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1135330_0e31_10.jpg",
+                "published_title": "aws-certified-solutions-architect-guide-question-bank-i",
+                "tracking_id": "FoRx75bJQzeOHdIi-Hj49g",
+                "headline": "AWS Associate Exam - Master Foundations. Join Live Study Group Q&A!",
+                "num_subscribers": 10750,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.570707,
+                "avg_rating_recent": 4.565867,
+                "rating": 4.565867,
+                "num_reviews": 1569,
+                "is_wishlisted": false,
+                "num_published_lectures": 221,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1135330_0e31_10.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1135330_0e31_10.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1135330_0e31_10.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1135330_0e31_10.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English"
+                ],
+                "created": "2017-03-05T14:22:29Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-03-25T00:41:25Z",
+                "objectives_summary": [
+                    "Breadth of understanding of various AWS services",
+                    "How to Integrate Services into a Complete Solution",
+                    "Hands-on Scenario Based Learning"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2022-08-09",
+                "preview_url": "/course/1135330/preview/",
+                "learn_url": "/course/aws-certified-solutions-architect-guide-question-bank-i/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "16 total hours",
+                "content_info_short": "16 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1162310,
+                "title": "Practice Test AWS Solutions Architect Associate SAA C03",
+                "url": "/course/practice-test-aws-certified-solutions-architect-associate/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 22006946,
+                        "title": "Chandra Lingam",
+                        "name": "Chandra",
+                        "display_name": "Chandra Lingam",
+                        "job_title": "Cloud Wave LLC",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/22006946_909d_11.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/22006946_909d_11.jpg",
+                        "initials": "CL",
+                        "url": "/user/e7c3b177-f449-448a-aff8-9ef970b23152/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1162310_5ee3_4.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1162310_5ee3_4.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1162310_5ee3_4.jpg",
+                "published_title": "practice-test-aws-certified-solutions-architect-associate",
+                "tracking_id": "I4hU8HpkSDu0RIaV3czLuw",
+                "headline": "[Updated] In One Hour, You will Gain Substantial Insight to Pass the Certification Exam. Join Live Study Group Q&A!",
+                "num_subscribers": 42369,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.6486487,
+                "avg_rating_recent": 4.6649117,
+                "rating": 4.6649117,
+                "num_reviews": 2826,
+                "is_wishlisted": false,
+                "num_published_lectures": 143,
+                "num_published_practice_tests": 2,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1162310_5ee3_4.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1162310_5ee3_4.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1162310_5ee3_4.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1162310_5ee3_4.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English"
+                ],
+                "created": "2017-03-29T13:34:00Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 130,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-04-03T16:41:52Z",
+                "objectives_summary": [
+                    "Realistic experience on type of questions that you would face in the certification exam",
+                    "Gain Insight into AWS Services From Certification Perspective",
+                    "Evaluate Different Architectural Choices"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2022-06-03",
+                "preview_url": "/course/1162310/preview/",
+                "learn_url": "/course/practice-test-aws-certified-solutions-architect-associate/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "11.5 total hours",
+                "content_info_short": "11.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1236626,
+                "title": "AWS Certified Solution Architect - Associate",
+                "url": "/course/aws-solution-architect-associate/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 25858272,
+                        "title": "Alan Rodrigues",
+                        "name": "Alan",
+                        "display_name": "Alan Rodrigues",
+                        "job_title": "Software Engineering Evangelist",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/25858272_3f5e_4.jpg",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/25858272_3f5e_4.jpg",
+                        "initials": "AR",
+                        "url": "/user/b6837a38-3380-4c15-8cd9-aabb118793df/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1236626_b910_4.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1236626_b910_4.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1236626_b910_4.jpg",
+                "published_title": "aws-solution-architect-associate",
+                "tracking_id": "U6ScdTcfQu-os4wnforrQw",
+                "headline": "Includes 2 Practice Tests - 130 Practice Test Questions",
+                "num_subscribers": 22023,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.581818,
+                "avg_rating_recent": 4.6344123,
+                "rating": 4.6344123,
+                "num_reviews": 2284,
+                "is_wishlisted": false,
+                "num_published_lectures": 145,
+                "num_published_practice_tests": 2,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1236626_b910_4.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1236626_b910_4.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1236626_b910_4.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1236626_b910_4.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2017-05-31T16:30:42Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 130,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-08-08T21:56:50Z",
+                "objectives_summary": [
+                    "Students will learn about all the various services offered by AWS",
+                    "Students will learn how these services work together to build fault tolerant and highly available applications",
+                    "Students can use the practice questions to get a hang of the type of questions which are asked in the exam"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2018-11-23",
+                "preview_url": "/course/1236626/preview/",
+                "learn_url": "/course/aws-solution-architect-associate/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "14.5 total hours",
+                "content_info_short": "14.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1328072,
+                "title": "AWS Certified Solutions Architect - Associate 2022",
+                "url": "/course/aws-certified-solutions-architect-associate-2018/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 2025260,
+                        "title": "Zeal Vora",
+                        "name": "Zeal",
+                        "display_name": "Zeal Vora",
+                        "job_title": "Premium Instructor",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/2025260_e5f5_2.jpg",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/2025260_e5f5_2.jpg",
+                        "initials": "ZV",
+                        "url": "/user/cybercorp/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1328072_e082_5.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1328072_e082_5.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1328072_e082_5.jpg",
+                "published_title": "aws-certified-solutions-architect-associate-2018",
+                "tracking_id": "xpwyy9d2SRqTsm6p1Mw9zw",
+                "headline": "Beginner to Advanced",
+                "num_subscribers": 9344,
+                "caption_locales": [],
+                "avg_rating": 4.615854,
+                "avg_rating_recent": 4.6551504,
+                "rating": 4.6551504,
+                "num_reviews": 1470,
+                "is_wishlisted": false,
+                "num_published_lectures": 224,
+                "num_published_practice_tests": 1,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1328072_e082_5.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1328072_e082_5.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1328072_e082_5.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1328072_e082_5.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2017-08-22T09:53:18Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 51,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-10-16T18:11:32Z",
+                "objectives_summary": [
+                    "Will be prepared for AWS Solutions Architect - Associate Exam",
+                    "Get a strong foundation on Amazon Web Services",
+                    "You will be able to design highly available, scaleable  & secure environment in AWS"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2022-08-08",
+                "preview_url": "/course/1328072/preview/",
+                "learn_url": "/course/aws-certified-solutions-architect-associate-2018/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "28 total hours",
+                "content_info_short": "28 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1343886,
+                "title": "The Ultimate AWS Certified Solutions Architect - Associate",
+                "url": "/course/the-ultimate-aws-certified-solutions-architect-associate/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 14733940,
+                        "title": "Bernard Golden",
+                        "name": "Bernard",
+                        "display_name": "Bernard Golden",
+                        "job_title": "Cloud consultant, writer, and thought leader",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/14733940_09f7.jpg",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/14733940_09f7.jpg",
+                        "initials": "BG",
+                        "url": "/user/bernard-golden/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1343886_9003_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1343886_9003_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1343886_9003_3.jpg",
+                "published_title": "the-ultimate-aws-certified-solutions-architect-associate",
+                "tracking_id": "P6ui_RZATJ2TpLWKJc3ohg",
+                "headline": "Pass the AWS certification exam by mastering the most important AWS services: IAM, EC2, Route 53 (DNS), VPC, and RDS.",
+                "num_subscribers": 9181,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "de_DE",
+                        "title": "Deutsch",
+                        "english_title": "German"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "fr_FR",
+                        "title": "Français (France)",
+                        "english_title": "French (France)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "it_IT",
+                        "title": "Italiano",
+                        "english_title": "Italian"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    }
+                ],
+                "avg_rating": 4.5,
+                "avg_rating_recent": 4.2023926,
+                "rating": 4.2023926,
+                "num_reviews": 1465,
+                "is_wishlisted": false,
+                "num_published_lectures": 160,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1343886_9003_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1343886_9003_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1343886_9003_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1343886_9003_3.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "영어 [자동]",
+                    "독일어 [자동]",
+                    "스페인어 [자동]",
+                    "이탈리아어 [자동]",
+                    "포르투갈어 [자동]",
+                    "프랑스어 [자동]"
+                ],
+                "created": "2017-09-06T23:58:54Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-12-24T18:24:48Z",
+                "objectives_summary": [
+                    "Pass the AWS Solutions Architect Associate certification -- on your first try!",
+                    "Implement and manage the really tricky AWS services -- VPC, IAM, Route 53 (DNS), and RDS",
+                    "Operate the most important AWS services correctly"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2019-02-16",
+                "preview_url": "/course/1343886/preview/",
+                "learn_url": "/course/the-ultimate-aws-certified-solutions-architect-associate/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "27 total hours",
+                "content_info_short": "27 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1360446,
+                "title": "AWS Certified Cloud Practitioner 2022",
+                "url": "/course/aws-certified-cloud-practitioner/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 2025260,
+                        "title": "Zeal Vora",
+                        "name": "Zeal",
+                        "display_name": "Zeal Vora",
+                        "job_title": "Premium Instructor",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/2025260_e5f5_2.jpg",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/2025260_e5f5_2.jpg",
+                        "initials": "ZV",
+                        "url": "/user/cybercorp/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1360446_f69e.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1360446_f69e.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1360446_f69e.jpg",
+                "published_title": "aws-certified-cloud-practitioner",
+                "tracking_id": "LBuyQYs9TQCQ9yKDmqmoeA",
+                "headline": "Beginner to Advanced",
+                "num_subscribers": 114728,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    }
+                ],
+                "avg_rating": 4.649927,
+                "avg_rating_recent": 4.625005,
+                "rating": 4.625005,
+                "num_reviews": 19735,
+                "is_wishlisted": false,
+                "num_published_lectures": 147,
+                "num_published_practice_tests": 1,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1360446_f69e.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1360446_f69e.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1360446_f69e.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1360446_f69e.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "포르투갈어 [자동]"
+                ],
+                "created": "2017-09-25T12:11:00Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 54,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-12-21T23:07:49Z",
+                "objectives_summary": [
+                    "You will have high level overview on what AWS Cloud is all about.",
+                    "You will be ready to give the AWS Cloud Practitioner certification exam."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2022-08-08",
+                "preview_url": "/course/1360446/preview/",
+                "learn_url": "/course/aws-certified-cloud-practitioner/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "18.5 total hours",
+                "content_info_short": "18.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1425762,
+                "title": "AWS Certified Solutions Architect - Professional 2022",
+                "url": "/course/aws-certified-solutions-architect-professional/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 2025260,
+                        "title": "Zeal Vora",
+                        "name": "Zeal",
+                        "display_name": "Zeal Vora",
+                        "job_title": "Premium Instructor",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/2025260_e5f5_2.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/2025260_e5f5_2.jpg",
+                        "initials": "ZV",
+                        "url": "/user/cybercorp/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1425762_36e3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1425762_36e3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1425762_36e3.jpg",
+                "published_title": "aws-certified-solutions-architect-professional",
+                "tracking_id": "s_7gijPTTIWh7KMt8S6QWA",
+                "headline": "All you need to master AWS Solutions Architect - Professional certification",
+                "num_subscribers": 12366,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "de_DE",
+                        "title": "Deutsch",
+                        "english_title": "German"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "fr_FR",
+                        "title": "Français (France)",
+                        "english_title": "French (France)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "id_ID",
+                        "title": "Bahasa Indonesia",
+                        "english_title": "Indonesian"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "it_IT",
+                        "title": "Italiano",
+                        "english_title": "Italian"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    }
+                ],
+                "avg_rating": 4.5654764,
+                "avg_rating_recent": 4.515885,
+                "rating": 4.515885,
+                "num_reviews": 1760,
+                "is_wishlisted": false,
+                "num_published_lectures": 270,
+                "num_published_practice_tests": 2,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1425762_36e3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1425762_36e3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1425762_36e3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1425762_36e3.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "French [Auto]",
+                    "German [Auto]",
+                    "Indonesian [Auto]",
+                    "Italian [Auto]",
+                    "Portuguese [Auto]",
+                    "Spanish [Auto]"
+                ],
+                "created": "2017-11-08T13:46:11Z",
+                "instructional_level": "Intermediate Level",
+                "instructional_level_simple": "Intermediate",
+                "content_length_practice_test_questions": 75,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-11-28T18:27:07Z",
+                "objectives_summary": [
+                    "Will be prepared to give the AWS Solutions Architect - Professional certification",
+                    "Gain deep insights into AWS",
+                    "Gain great understanding about Single-Sign-On Technologies"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2022-07-25",
+                "preview_url": "/course/1425762/preview/",
+                "learn_url": "/course/aws-certified-solutions-architect-professional/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "34 total hours",
+                "content_info_short": "34 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1477998,
+                "title": "AWS Certified Cloud Practitioner - Updated 2020",
+                "url": "/course/aws-certified-cloud-practitioner-2018/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 25858272,
+                        "title": "Alan Rodrigues",
+                        "name": "Alan",
+                        "display_name": "Alan Rodrigues",
+                        "job_title": "Software Engineering Evangelist",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/25858272_3f5e_4.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/25858272_3f5e_4.jpg",
+                        "initials": "AR",
+                        "url": "/user/b6837a38-3380-4c15-8cd9-aabb118793df/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1477998_1fa5_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1477998_1fa5_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1477998_1fa5_3.jpg",
+                "published_title": "aws-certified-cloud-practitioner-2018",
+                "tracking_id": "AwUtskvDTvOti6xhRQl-Dw",
+                "headline": "Pass your Cloud Practitioner certification Exam. Includes 175 practice questions",
+                "num_subscribers": 10231,
+                "caption_locales": [],
+                "avg_rating": 4.604651,
+                "avg_rating_recent": 4.6463284,
+                "rating": 4.6463284,
+                "num_reviews": 2297,
+                "is_wishlisted": false,
+                "num_published_lectures": 112,
+                "num_published_practice_tests": 2,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1477998_1fa5_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1477998_1fa5_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1477998_1fa5_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1477998_1fa5_3.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2017-12-21T18:39:57Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 175,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-01-11T22:05:40Z",
+                "objectives_summary": [
+                    "Understand the basics of Cloud Computing when it comes to AWS",
+                    "Build virtual servers on the cloud in AWS",
+                    "Understand how the costing model works in AWS"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2020-02-14",
+                "preview_url": "/course/1477998/preview/",
+                "learn_url": "/course/aws-certified-cloud-practitioner-2018/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "9 total hours",
+                "content_info_short": "9 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1581742,
+                "title": "AWS Certified Advanced Networking - Specialty 2022",
+                "url": "/course/aws-certified-advanced-networking-specialty/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 2025260,
+                        "title": "Zeal Vora",
+                        "name": "Zeal",
+                        "display_name": "Zeal Vora",
+                        "job_title": "Premium Instructor",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/2025260_e5f5_2.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/2025260_e5f5_2.jpg",
+                        "initials": "ZV",
+                        "url": "/user/cybercorp/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1581742_5d24_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1581742_5d24_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1581742_5d24_3.jpg",
+                "published_title": "aws-certified-advanced-networking-specialty",
+                "tracking_id": "DIDtFkh3QKajeI_Pdp-0AQ",
+                "headline": "All you need to master AWS Certified Advanced Networking - Specialty certification",
+                "num_subscribers": 8487,
+                "caption_locales": [],
+                "avg_rating": 4.5820894,
+                "avg_rating_recent": 4.60425,
+                "rating": 4.60425,
+                "num_reviews": 1068,
+                "is_wishlisted": false,
+                "num_published_lectures": 235,
+                "num_published_practice_tests": 1,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1581742_5d24_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1581742_5d24_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1581742_5d24_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1581742_5d24_3.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": false,
+                "caption_languages": [],
+                "created": "2018-03-05T14:42:24Z",
+                "instructional_level": "Intermediate Level",
+                "instructional_level_simple": "Intermediate",
+                "content_length_practice_test_questions": 51,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-03-21T00:38:53Z",
+                "objectives_summary": [
+                    "Will be prepared to give the AWS Certified Advanced Networking - Specialty certification.",
+                    "Implement IPSec tunnels as part of Hybrid Infrastructure",
+                    "Understand and Implement various complex AWS networking architectures"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2022-07-25",
+                "preview_url": "/course/1581742/preview/",
+                "learn_url": "/course/aws-certified-advanced-networking-specialty/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "28 total hours",
+                "content_info_short": "28 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1717968,
+                "title": "AWS Certified Security Specialist",
+                "url": "/course/aws-security-specialist/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 25858272,
+                        "title": "Alan Rodrigues",
+                        "name": "Alan",
+                        "display_name": "Alan Rodrigues",
+                        "job_title": "Software Engineering Evangelist",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/25858272_3f5e_4.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/25858272_3f5e_4.jpg",
+                        "initials": "AR",
+                        "url": "/user/b6837a38-3380-4c15-8cd9-aabb118793df/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1717968_a945_4.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1717968_a945_4.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1717968_a945_4.jpg",
+                "published_title": "aws-security-specialist",
+                "tracking_id": "pbzcu4O4THid0TQDaKj0pQ",
+                "headline": "This course is specially built to prepare you for taking on the AWS Certified Security Specialty Exam",
+                "num_subscribers": 5473,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.616279,
+                "avg_rating_recent": 4.618981,
+                "rating": 4.618981,
+                "num_reviews": 769,
+                "is_wishlisted": false,
+                "num_published_lectures": 77,
+                "num_published_practice_tests": 1,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1717968_a945_4.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1717968_a945_4.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1717968_a945_4.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1717968_a945_4.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2018-05-28T05:31:35Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 53,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-06-07T21:32:21Z",
+                "objectives_summary": [
+                    "A deeper understanding on the various security controls on AWS",
+                    "Confidence to appear for the AWS Security Specialist Exam"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2018-11-27",
+                "preview_url": "/course/1717968/preview/",
+                "learn_url": "/course/aws-security-specialist/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "7.5 total hours",
+                "content_info_short": "7.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 294,
+                        "title": "IT & Software",
+                        "url": "/courses/it-and-software/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4704,
+                        "display_name": "AWS Certification",
+                        "title": "AWS Certification",
+                        "topic_channel_url": "/topic/aws-certification/",
+                        "url": "/topic/aws-certification/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            }
+        ],
+        "remaining_item_count": 27,
+        "url": "/api-2.0/discovery-units/bestseller/?apply_filters=False&context=home&fft=skills_hub_top_new_beginner&fl=lbl&gl_tracking_id=None&is_content_rankable=False&label_id=4704&member_of=skills_hub_top_new_beginner&ref_tracking_id=Puc9L1a6QCOSYqO30CN4KQ&sos=pl",
+        "type": "bestseller",
+        "recommendation_params": {
+            "fl": "lbl",
+            "sos": "pl",
+            "u": null,
+            "fft": "skills_hub_top_new_beginner",
+            "is_content_rankable": false,
+            "context": "home",
+            "ref_tracking_id": "Puc9L1a6QCOSYqO30CN4KQ",
+            "gl_tracking_id": "None",
+            "member_of": "skills_hub_top_new_beginner",
+            "source_object_count": null,
+            "label_id": 4704,
+            "apply_filters": false
+        },
+        "url_title": null,
+        "score": 0.0,
+        "available_filters": {},
+        "aggregations": null,
+        "course_labels": null,
+        "sort_options": {},
+        "pagination": {
+            "next": {
+                "label": "Next",
+                "url": "/api-2.0/discovery-units/bestseller/?apply_campaign_filter=False&context=home&currency=usd&fft=skills_hub_top_new_beginner&fl=lbl&is_content_rankable=False&label_id=4704&locale=en_US&member_of=skills_hub_top_new_beginner&navigation_locale=en_US&safe_for_public_caching=True&skip_price=true&sos=pl&source_page=logged_out_homepage&source_page=logged_out_homepage&p=2",
+                "selected": false
+            },
+            "current_page": 1,
+            "total_page": 2,
+            "total_item_count": 39,
+            "pages": [
+                {
+                    "url": "/api-2.0/discovery-units/bestseller/?apply_campaign_filter=False&context=home&currency=usd&fft=skills_hub_top_new_beginner&fl=lbl&is_content_rankable=False&label_id=4704&locale=en_US&member_of=skills_hub_top_new_beginner&navigation_locale=en_US&safe_for_public_caching=True&skip_price=true&sos=pl&source_page=logged_out_homepage&source_page=logged_out_homepage&p=1",
+                    "label": 1,
+                    "selected": true
+                },
+                {
+                    "url": "/api-2.0/discovery-units/bestseller/?apply_campaign_filter=False&context=home&currency=usd&fft=skills_hub_top_new_beginner&fl=lbl&is_content_rankable=False&label_id=4704&locale=en_US&member_of=skills_hub_top_new_beginner&navigation_locale=en_US&safe_for_public_caching=True&skip_price=true&sos=pl&source_page=logged_out_homepage&source_page=logged_out_homepage&p=2",
+                    "label": 2,
+                    "selected": false
+                }
+            ]
+        },
+        "view_type": "default",
+        "member_of": "skills_hub_top_new_beginner",
+        "tracking_id": "Puc9L1a6QCOSYqO30CN4KQ",
+        "has_courses_in_ufb": true,
+        "description": "",
+        "subcategory_slug": "",
+        "fbt_discount_savings_percent": null,
+        "fbt_go_direct_to_cart": false
+    }
+}
